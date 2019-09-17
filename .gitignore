@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore aws credentials
+.lightsaildb-creds
+
+
